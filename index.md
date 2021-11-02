@@ -6,6 +6,12 @@ Telling stories with data is at the core of the data journalists profession. Com
 
 ![The 'Fake' President](https://github.com/FaisalAli91/FaisalAli91.github.io/blob/add_portfolio/The%20Fake%20President.png)
 
+FAKE FAKE FAKE! If there is one word that defines the Trump Presidency like no other, it is _FAKE!_
+
+I wanted to visualize how often President Trump Tweeted certain words. As you can see from above, Trump began to accuse things of being FAKE as soon as his term in office began.
+
+
+
 ```markdown
 Syntax highlighted code block
 
