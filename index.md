@@ -1,6 +1,6 @@
 ## Hello! Welcome to Faisal Ali's Data Portfolio
 
-You can use the [editor on GitHub](https://github.com/FaisalAli91/FaisalAli91.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a data analyst and journalist with a passion for explaining and understanding the world through people, numbers and graphs! Compiled here are a summary of the data visaulizations I have created.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
