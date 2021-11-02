@@ -1,6 +1,6 @@
 ## Hello! Welcome to Faisal Ali's Data Portfolio
 
-Telling stories with data is at the core of the data journalists profession. Compiled here are collection of my data visualizations.
+Telling stories with data is at the core of the data journalists profession. Compiled here are collection of my data visualizations created using python and D3.
 
 ### 1. The Trump Mind Map
 
@@ -16,7 +16,21 @@ Trump's prolific Tweeting provides an insight into the political currents sweepi
 
 You can also observe Trump's attention to his predecessor continues throughout his four years in office, and Biden becomes the focus of his scorn in the lead up to the 2020 Democratic Primaries.
 
-![Tweet](https://github.com/FaisalAli91/FaisalAli91.github.io/blob/add_portfolio/How%20often%20did%20Trump%20Tweet%20ADJUSTED.png)
+![Tweet Frequency](https://github.com/FaisalAli91/FaisalAli91.github.io/blob/add_portfolio/How%20often%20did%20Trump%20Tweet%20ADJUSTED.png)
+
+Another way of visualizing the data. I wanted to capture how frequently the President Tweeted during his final year of office. I calculated the time interval between successive Tweets and plotted them on with a kernel density function, which is similar to a histogram for continuous variables.
+
+The visualization shows that Trump Tweeted in 39 second interval bursts, followed by short pauses.
+
+Half of Trump's almost 12,000 Tweets were made between ten seconds to five minutes following the previous Tweet. The longest Trump ever went without Tweeting was 1 day and 1 hour.
+
+The best part of this visualization is there is so much more we can investigate. How often did Trump Tweet on weekends versus weekdays? How often did Trump think/Tweet about Biden or Hilary Clinton or accuse elections of being fake? We could compare Trump's Tweet volume with Obama's – the possibilities are endless!
+
+Source: [The Trump Archive](https://www.thetrumparchive.com/)
+
+### 2. Covid-19 Webscrapers
+
+
 
 ```markdown
 Syntax highlighted code block
