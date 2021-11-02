@@ -4,7 +4,7 @@ Telling stories with data is at the core of the data journalists profession. Com
 
 ### 1. The Trump Mind Map
 
-![The 'Fake' President](https://github.com/FaisalAli91/FaisalAli91.github.io/blob/main/The%20Fake%20President.png)
+![The 'Fake' President](The Fake President.png)
 
 FAKE FAKE FAKE! If there is one word that defines the Trump Presidency like no other, it is _FAKE!_
 
