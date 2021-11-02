@@ -28,9 +28,9 @@ The best part of this visualization is there is so much more we can investigate.
 
 Source: [The Trump Archive](https://www.thetrumparchive.com/)
 
-### 2. Covid-19 Webscrapers
+### 2. Covid-19 Webscrapers and interactives
 
-
+The following 
 
 ```markdown
 Syntax highlighted code block
