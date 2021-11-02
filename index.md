@@ -1,12 +1,10 @@
 ## Hello! Welcome to Faisal Ali's Data Portfolio
 
-I am a data analyst and journalist with a passion for explaining and understanding the world through people, numbers and graphs! Compiled here are a summary of the data visaulizations I have created.
+Telling stories with data is at the core of the data journalists profession. Compiled here are collection of my data visualizations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1. The Trump Mind Map
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
