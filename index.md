@@ -16,7 +16,7 @@ Trump's prolific Tweeting provides an insight into the political currents sweepi
 
 You can also observe Trump's attention to his predecessor continues throughout his four years in office, and Biden becomes the focus of his scorn in the lead up to the 2020 Democratic Primaries.
 
-
+![Tweet](https://github.com/FaisalAli91/FaisalAli91.github.io/blob/add_portfolio/How%20often%20did%20Trump%20Tweet%20ADJUSTED.png)
 
 ```markdown
 Syntax highlighted code block
