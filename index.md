@@ -4,7 +4,7 @@ Telling stories with data is at the core of the data journalists profession. Com
 
 ### 1. The Trump Mind Map
 
-
+[The 'Fake' President](https://github.com/FaisalAli91/FaisalAli91.github.io/blob/add_portfolio/The%20Fake%20President.png)
 
 ```markdown
 Syntax highlighted code block
