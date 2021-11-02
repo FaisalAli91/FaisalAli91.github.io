@@ -30,7 +30,19 @@ Source: [The Trump Archive](https://www.thetrumparchive.com/)
 
 ### 2. Covid-19 Webscrapers and interactives
 
-The following 
+The following were all built using the D3 programming library for interactive data visualizations, and pull data off the Covid-19 Act Now API. I'm only uploading still images of my webscrapers for now until I figure out how to connect my local files with my Github repository. Until then, just try to imagine you are clicking those buttons and seeing the data change before your eyes!
+
+![Weekly hospitalizations](https://github.com/FaisalAli91/FaisalAli91.github.io/blob/add_portfolio/Weekly%20Covid-19%20hospitalizations%20in%20PA.png)
+
+I've grouped the daily hospitalization numbers into weekly totals to help smooth out the data and make it easier to read. Daily data can be reported inconsistently which makes viewing weekly trends a better alternative.
+
+Note the actual webscraper is interactive and even lets you filter out the hospitalization types by unselecting them on the legend.
+
+![Weekly deaths](https://github.com/FaisalAli91/FaisalAli91.github.io/blob/add_portfolio/Weekly%20Covid-19%20Deaths%20in%20PA.png)
+
+Another chart showing weekly trends, this time for Covid-19 deaths in PA and vaccination rates. I've included a range selector that allows users to filter data for the past month, six months, year-to-date, one year and all.
+
+![Vaccination counter](https://github.com/FaisalAli91/FaisalAli91.github.io/blob/add_portfolio/Vaccinations.png)
 
 ```markdown
 Syntax highlighted code block
