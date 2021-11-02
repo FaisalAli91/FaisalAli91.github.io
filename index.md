@@ -10,6 +10,12 @@ FAKE FAKE FAKE! If there is one word that defines the Trump Presidency like no o
 
 I wanted to visualize how often President Trump Tweeted certain words. As you can see from above, Trump began to accuse things of being FAKE as soon as his term in office began.
 
+!['Fake' and 'Rigged'](https://github.com/FaisalAli91/FaisalAli91.github.io/blob/add_portfolio/Fake%20and%20rigged.png)
+
+Trump's prolific Tweeting provides an insight into the political currents sweeping the nation. Notice the former President begins to flood the zone with _RIGGED!_ accusations before the 2016, 2018 and 2020 elections, and then after the 2020 election when he loses.
+
+You can also observe Trump's attention to his predecessor continues throughout his four years in office, and Biden becomes the focus of his scorn in the lead up to the 2020 Democratic Primaries.
+
 
 
 ```markdown
