@@ -2,7 +2,7 @@
 
 Telling stories with data is at the core of the data journalists profession. Compiled here are collection of my data visualizations created using python and D3.
 
-### 1. The Trump Mind Map
+### 1. [The Trump Mind Map](https://github.com/FaisalAli91/Trump_Tweets_proj/blob/main/Trump_tweets_git.ipynb)
 
 ![The 'Fake' President](The Fake President.png)
 
