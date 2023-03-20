@@ -1,6 +1,6 @@
 ## Hello! Welcome to Faisal Ali's Data Portfolio
 
-Telling stories with data is at the core of the data journalists profession. Compiled here are collection of my data visualizations created using python and D3.
+I am a data analyst and journalist with a passion for telling stories with numbers, words, graphs and photography. Below are some of my data visualization projects.
 
 ### 1. [The Trump Mind Map](https://github.com/FaisalAli91/Trump_Tweets_proj/blob/main/Trump_tweets_git.ipynb)
 
