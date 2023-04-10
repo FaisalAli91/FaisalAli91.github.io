@@ -2,7 +2,13 @@
 
 I am a data analyst and journalist with a passion for telling stories with numbers, words, graphs and photography. Below are some of my data visualization projects.
 
-### 1. Covid-19 Webscrapers and interactives
+### 1. Calls to the Florida St. Petersburg Police Department rose significantly in 2023 to pre-Covid levels.
+
+![Total calls per day](Total calls per day edited.png)
+
+
+
+### 2. Covid-19 Webscrapers and interactives
 
 The following were all built using the D3 programming library for interactive data visualizations, and pull data off the Covid-19 Act Now API. I'm only uploading still images of my webscrapers for now until I figure out how to connect my local files with my Github repository. Until then, just try to imagine you are clicking those buttons and seeing the data change before your eyes!
 
@@ -25,7 +31,7 @@ A vaccination rate counter for the State of Pennsylvania.
 A time series of peope getting the vaccine.
 
 
-### 2. [The Trump Twitter Map](https://github.com/FaisalAli91/Trump_Tweets_proj/blob/main/Trump_tweets_git.ipynb)
+### 3. [The Trump Twitter Map](https://github.com/FaisalAli91/Trump_Tweets_proj/blob/main/Trump_tweets_git.ipynb)
 
 ![The 'Fake' President](The Fake President.png)
 
