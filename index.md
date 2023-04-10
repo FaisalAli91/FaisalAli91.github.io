@@ -28,7 +28,7 @@ Source: [St. Petersburg Police Department Call Data](https://stat.stpete.org/dat
 
 ### 2. Covid-19 Webscrapers and interactives
 
-The following were all built using the D3 programming library for interactive data visualizations, and pull data off the Covid-19 Act Now API. I'm only uploading still images of my webscrapers for now until I figure out how to connect my local files with my Github repository. Until then, just try to imagine you are clicking those buttons and seeing the data change before your eyes!
+The following were created using the D3 programming library for interactive data visualizations, and pull data from the Covid-19 Act Now API. I'm only uploading still images of my webscrapers for now until I figure out how to connect my local files with my Github repository. Until then, just try to imagine you are clicking those buttons and seeing the data change before your eyes!
 
 ![Weekly hospitalizations](Weekly Covid-19 hospitalizations in PA.png)
 
