@@ -2,11 +2,25 @@
 
 I am a data analyst and journalist with a passion for telling stories with numbers, words, graphs and photography. Below are some of my data visualization projects.
 
-### 1. Calls to the Florida St. Petersburg Police Department rose significantly in 2023 to pre-Covid levels.
+### 1. Calls to the Florida St. Petersburg Police Department rose significantly in 2023 and even surpassed pre-Covid peaks.
 
 ![Total calls per day](Total calls per day edited.png)
 
+Calls to the St. Petersburg Police Department have jumped considerably in 2023 and even surpassed pre-Covid highs, according to an analysis of data put out by the Florida police department.
 
+I counted the total number of calls made to the St. Petersburg on a daily basis for this graph, and then plotted the two week averages overtop. We can see how calls to the department reach a peak of 743 in November, 2019, before dropping substantially in 2020 and reaching a low of 485 calls per day in December 2020.
+
+However, calls have increased continuously since the beginning of 2021, and spiked significantly in 2023.
+
+Calls in the two week period centered on March 1, 2023 averaged 756 per day - above the pre-pandemic high of 743 in November, 2019.
+
+The data is further broken down by the classification of the call. For instance, we can see calls to the police classfied as traffic incidents and thefts (in a different color scheme):
+
+![Total Traffic Incidents per day](Traffic incident calls per day.png)
+
+![Theft incidents per day](Theft incident calls per day.png)
+
+I created this graph using the Matplotlib data visulization library in python, and Paint.net for 
 
 ### 2. Covid-19 Webscrapers and interactives
 
