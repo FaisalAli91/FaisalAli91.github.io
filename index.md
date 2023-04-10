@@ -6,7 +6,7 @@ I am a data analyst and journalist with a passion for telling stories with numbe
 
 ![Total calls per day](Total calls per day edited.png)
 
-Calls to the Florida St. Petersburg Police Department rose significantly in 2023 and even surpassed pre-Covid highs, according to an analysis of call data released by the Florida police department.
+Calls to the Florida St. Petersburg Police Department rose significantly in 2023 and even surpassed pre-Covid highs, according to an analysis of call data released by the Florida police department's Computer-Aided Dispatch System.
 
 By graphing the total number of calls made each day to the St. Petersburg, and then plotting the two week averages overtop, we can see how calls to the department reach a peak of 743 per day in November, 2019, before dropping substantially in 2020 to a low of 485 calls per day in December, 2020.
 
@@ -23,6 +23,8 @@ The data is further broken down by the classification of the call. For instance,
 Traffic incidents rebounded much quicker from the Covid slump, with traffic calls rising above pre-pandemic levels in 2021. Interestingly, there were several days since 2021 with unusually high numbers of calls - 200 to 350 calls, well above the 100 to 150 average. Reported thefts, by contrast, are still below 2020 levels.
 
 These graphs were created using the Matplotlib data visulization library in python and Paint.net for post-processing.
+
+Source: [St. Petersburg Police Department Call Data](https://stat.stpete.org/dataset/Police-Calls/2eks-pg5j)
 
 ### 2. Covid-19 Webscrapers and interactives
 
