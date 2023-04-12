@@ -32,9 +32,17 @@ So on a typical weekday, we see calls to the police kick off at the 6am hour, pe
 
 On weekends, the volume of calls follows the same pattern but is typically lower, except after midnight. My guess though is Sunday would have a nighttime profile similar to a weekday, while Friday would also see more activity at night.
 
-While most calls occur during weekdays, noise complaints follow the opposite pattern:
+While most calls occur during weekdays, noise complaints follow the opposite pattern, reaching the highest levels at night, with two-to-three times the number of calls on weekends versus weekdays:
 
 ![Noise nuisance calls per hour](Noise nusiance calls per hour.png)
+
+Using some math and creativity, we can arrange the data and pull out the trends that are of interest to us. For the police department, data on call numbers per hour can be used to schedule police resources over the day. Being able to seperate out individual classifications, such as traffic incidents and noise nuisance, can help organize responses to each effectively.
+
+The trends in calls per day, meanwhile, give us a snapshot of ten years worth of calls in the St. Petersburg community. The most interesting detail to my mind was how calls to the police jumped up sharply in 2023.
+
+Further analysis of that 2023 spike I think would reveal some interesting details, but data alone can't tell us what is happening. For that, we need domain knowledge - interviews with the people of St. Petersburg and police. We would also need to talk with the data administrator to understand how the department's Computer-Aided Dispatch system works, whether it classifies calls correctly, whether calls for the same events are duplicated if there are multiple calls.
+
+As is usually the case with data analysis, the questions lead to yet more questions!
 
 These graphs were created using the Matplotlib and Seaborn data visualization libraries in python and Paint.net for post-processing.
 
@@ -42,7 +50,9 @@ Source: [St. Petersburg Police Department Call Data](https://stat.stpete.org/dat
 
 ### 2. Covid-19 Webscrapers and interactives
 
-The following were created using the D3 programming library for interactive data visualizations, and pull data from the Covid-19 Act Now API. I'm only uploading still images of my webscrapers for now until I figure out how to connect my local files with my Github repository. Until then, just try to imagine you are clicking those buttons and seeing the data change before your eyes!
+An analysis of 
+
+The following were created using the D3 programming library for interactive data visualizations, and pull data from the Covid-19 Act Now API. These are still images, but the interactive dashboards can be incorporated into a website or published on Power BI.
 
 ![Weekly hospitalizations](Weekly Covid-19 hospitalizations in PA.png)
 
