@@ -2,7 +2,7 @@
 
 I am a data analyst and journalist with a passion for telling stories with numbers, words, graphs and photography. Below are some of my data visualization projects, created in python.
 
-### 1. Florida St. Petersburg Police Department data analysis
+### 1. Calls to the St. Petersburg Police Department in Florida reached their highest levels in 2023 after falling during Covid
 
 ![Total calls per day](Total calls per day edited.png)
 
@@ -10,7 +10,7 @@ Calls to the St. Petersburg Police Department rose sharply in 2023 and reached t
 
 A total of 2.3 million calls were recorded made to the St. Petersburg police department since 2013.
 
-By graphing the total number of calls made each day to the St. Petersburg, and then plotting the two week averages overtop, we can see how calls to the department reach a peak of 743 per day in November, 2019, before dropping substantially in 2020 to a low of 485 calls per day in December, 2020.
+By graphing the total number of calls made each day to the St. Petersburg police departent, and then plotting the two week averages overtop, we can see how calls to the department reach a peak of 743 per day in November, 2019, before dropping substantially in 2020 to a low of 485 calls per day in December, 2020.
 
 However, calls have increased continuously since the beginning of 2021, and spiked significantly in 2023.
 
