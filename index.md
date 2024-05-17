@@ -50,7 +50,7 @@ Source: [St. Petersburg Police Department Call Data](https://stat.stpete.org/dat
 
 ### 2. Covid-19 Webscrapers and interactives
 
-An analysis of 
+An analysis of Covid-19 data from the state of Pennsylvania.
 
 The following were created using the D3 programming library for interactive data visualizations, and pull data from the Covid-19 Act Now API. These are still images, but the interactive dashboards can be incorporated into a website or published on Power BI.
 
